@@ -4,7 +4,7 @@ Welcome, and thanks for your interest in joining **Halen Technologies** 🎉
 
 This take-home assessment is designed to give you the flexibility to showcase your skills across the **frontend, backend, and tooling** — in a real-world, midsize organization context. We’re more interested in your thought process and code quality than a "perfect" solution.
 
-Please note **excessive use of AI will disqualify an assessment from review.** 
+⚠️ Please note **excessive use of AI will disqualify an assessment from review.** ⚠️
 
 ---
 

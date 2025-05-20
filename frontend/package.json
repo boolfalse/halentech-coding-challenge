@@ -1,0 +1,43 @@
+{
+  "name": "mern-project-frontend",
+  "version": "1.0.0",
+  "description": "MongoDB + Express.js + React.js + Node.js project",
+  "keywords": [
+    "mongodb",
+    "expressjs",
+    "reactjs",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/boolfalse/mern-project#readme",
+  "bugs": {
+    "url": "https://github.com/boolfalse/mern-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boolfalse/mern-project.git"
+  },
+  "license": "ISC",
+  "author": "boolfalse",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-responsive-modal": "^6.4.2",
+    "react-toastify": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
